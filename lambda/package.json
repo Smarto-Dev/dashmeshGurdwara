@@ -1,0 +1,16 @@
+{
+  "name": "alexa-video-example-skill",
+  "version": "1.0.0",
+  "description": "Basic Alexa Skill Template for creating a skill that plays a video.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dabble Lab",
+  "license": "ISC",
+  "dependencies": {
+    "ask-sdk-core": "^2.0.0",
+    "ask-sdk-model": "^1.0.0",
+    "youtube-dl-exec": "^1.2.14"
+  }
+}
